@@ -6,5 +6,5 @@
 - [Day 3 - Application in Server](https://github.com/alfiansy7/devops18-dumbways-alfiansyahputra/blob/main/tasks/day3/README.md)
 
 ### Challenge
-- [Localtunnel](https://github.com/alfiansy7/devops18-dumbways-alfiansyahputra/blob/main/challange/localtunnel/README.md)
+- [Localtunnel](https://github.com/alfiansy7/devops18-dumbways-alfiansyahputra/blob/main/challenge/localtunnel/README.md)
 - [PM2](https://github.com/alfiansy7/devops18-dumbways-alfiansyahputra/blob/main/challenge/pm2/README.md)
