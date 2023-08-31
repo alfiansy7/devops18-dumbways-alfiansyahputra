@@ -42,7 +42,7 @@ Spesifikasi
 - Subnet : 255.255.255.0
 - Gateway : 192.168.1.1
 
-<img src="dumbways.drawio.png">
-[**File diagrams.net**](https://drive.google.com/file/d/1ZJq4o6Mjl-jUxdrPM3OtloSpXsFKylgB/view?usp=sharing)
+<img src="dumbways-drawio.png">
+[**File diagrams**](https://drive.google.com/file/d/1ZJq4o6Mjl-jUxdrPM3OtloSpXsFKylgB)
 
 [**Back**](../../README.md)
