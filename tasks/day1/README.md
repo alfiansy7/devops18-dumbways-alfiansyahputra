@@ -30,22 +30,22 @@ DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di man
 <img src="images/image001.jpg">
 
 2. Kemudian masukan file .iso ubuntu  
-<img src="images/image002.jpg">
+<img src="images/image002.png">
 
 3. Isikan nama vm dan lokasinya 
-<img src="images/image003.jpg">
+<img src="images/image003.png">
 
 4. Gunakan 20gb disk dengan mode split 
-<img src="images/image004.jpg">
+<img src="images/image004.png">
 
 5. Kemudian customize hardware 
-<img src="images/image005.jpg">
+<img src="images/image005.png">
 
 6. Gunakan memory 2GB, 1 Core dan Network Adaptor Bridged
 <img src="images/image006.jpg">
 
 7. Finish 
-<img src="images/image007.jpg">
+<img src="images/image007.png">
 
 8. Pilih Bahasa yang ingin digunakan 
 <img src="images/image008.jpg">
