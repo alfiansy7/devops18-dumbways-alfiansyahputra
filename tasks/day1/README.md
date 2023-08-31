@@ -2,13 +2,13 @@
 
 ## 1. Definisi
 
-<img src="images/definisi.png">
+<img src="images/definisi.png" width="200">
 
 DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana kedua kata tersebut bermakna menggabungkan proses development/pengembangan dari sebuah sistem/aplikasi dengan operation/operasional. DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien.
 
 ## 2.Lifecycle  
 
-<img src="images/lifecycle.jpg">
+<img src="images/lifecycle.jpg" width="300">
 
 - Continuous Development adalah pendekatan di mana tim pengembangan secara terus-menerus melakukan perubahan, peningkatan, dan pengembangan kode secara berkesinambungan. Tim ini berfokus pada menghasilkan kode yang berkualitas tinggi dengan cepat dan secara konsisten.
 
@@ -72,4 +72,4 @@ DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di man
 15. Jika button reboot now sudah muncul berarti ubuntu live server sudah berhasil di instal dan siap digunakan 
 <img src="images/image016.jpg">
 
-[Back](../../README.md)
+[**Back**](../../README.md)
