@@ -12,7 +12,7 @@ Ssh al@192.168.0.11
 ```bash
 sudo apt update
 ``` 
-<img src="images/image002.jpg">
+<img src="images/image002.png">
 
 3.	Kemudian install Node Version Manager (NVM)
 ```bash
@@ -24,7 +24,6 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 ```bash
 exec bash
 ```
-<img src="images/image004.jpg">
 
 5.	Instal nvm versi 16
 ```bash
@@ -39,7 +38,7 @@ Node -v
 ```bash
 Npm -v
 ```
-<img src="images/image006.jpg">
+<img src="images/image006.png">
  
 7.	Kemudian clone wayshub-frontend
 ```bash
@@ -52,7 +51,7 @@ Git clone https://github.com/dumbwaysdev/wayshub-frontend.git
 cd wayshub-frontend/
 npm install
 ```
-<img src="images/image008.jpg">
+<img src="images/image008.png">
  
 9.	Lalu jalankan aplikasinya
 ```bash
