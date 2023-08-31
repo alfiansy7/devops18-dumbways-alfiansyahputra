@@ -4,7 +4,7 @@
 
 1.	Login ke vm terlebih dahulu
 ```bash
-Ssh al@192.168.0.11
+ssh al@192.168.0.11
 ``` 
 <img src="images/image001.png">
  
