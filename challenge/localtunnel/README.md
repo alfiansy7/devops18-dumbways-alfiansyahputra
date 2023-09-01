@@ -35,7 +35,7 @@ npm start
  
 6.	Jalankan juga localtunnel nya
 ```bash
-lt –port 3000
+lt –-port 3000
 ``` 
 <img src="images/image006.png">
  
