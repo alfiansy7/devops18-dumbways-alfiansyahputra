@@ -112,7 +112,7 @@ cd go && go run index.go
  
 9.	Cek versi python3 dan install pip
 ```bash
-python3 –version
+python3 -–version
 ```
 <img src="images/image019.png">
  
