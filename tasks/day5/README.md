@@ -118,6 +118,7 @@ git push --all
 
 1. Membersihkan folder kerja Anda dari untracked files
 <img src="images/image019.png">
+
 ```bash
 git clean -f
 ``` 
