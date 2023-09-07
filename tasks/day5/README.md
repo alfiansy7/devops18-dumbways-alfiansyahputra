@@ -19,7 +19,7 @@ git config --global user.email "alfiansy@yandex.com"
  
 2.	Cek konfigurasi apakah sudah benar
 ```bash
-git config –list
+git config --list
 ``` 
 <img src="images/image002.png">
  
@@ -133,10 +133,12 @@ git log
 3. Menghapus branch
 <img src="images/image022.png">
 Melihat branch terlebih dahulu
+
 ```bash
 git branch -a
 ``` 
 Menghapus branch
+
 ```bash
 git branch -d test-branch 
 ``` 
