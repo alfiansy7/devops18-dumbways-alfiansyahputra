@@ -19,7 +19,7 @@ git config --global user.email "alfiansy@yandex.com"
  
 2.	Cek konfigurasi apakah sudah benar
 ```bash
-git config –list
+git config –-list
 ``` 
 <img src="images/image002.png">
  
