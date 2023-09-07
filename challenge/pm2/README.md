@@ -16,7 +16,7 @@ cd dumbflix-frontend/
  
 3.	Kemudian menjalankan npm melalui pm2
 ```bash
-pm2 start npm --name "dumb-flix" –- start
+pm2 start npm --name "dumb-flix" -- start
 ``` 
 <img src="images/image003.png">
  
